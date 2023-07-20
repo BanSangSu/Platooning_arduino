@@ -1,7 +1,7 @@
 # Platooning system with arduino
 Univ Project
 
-- **Period**: 7th Mar, ~ 2022.6.17
+- **Period**: 7th Mar - 17th Jun, 2022
 
 ## Outline
 We develop platooning systems with Arduino. You can operate self-driving trucks with Arduino and receive truck status data from trucks using Bluetooth.
@@ -12,14 +12,15 @@ We develop platooning systems with Arduino. You can operate self-driving trucks 
 
 https://github.com/BanSangSu/Platooning_arduino/assets/76412884/f9f34e25-601a-401c-8c50-703c0579d743
 
-
+  
   
 
 **Keeping distance**  
 
 https://github.com/BanSangSu/Platooning_arduino/assets/76412884/cb59385f-c8ee-44de-8a58-83d69dff29fc
 
-
+## Tech Stacks
+- **Arduino, Nodejs, Self-driving**
 
 ## Done
 1. Finished Code for the Arduino self-driving trucks.
